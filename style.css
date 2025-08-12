@@ -11,12 +11,14 @@ background-color:indianred;
 }
 
 .hero{
-    padding:50px 20px:
+    padding: 50px 20px;
 }
 
 .hero img{
     border-radius:50%;
     margin-bottom: 10px;
+    height: 200px;
+    width: 100px;
 }
 
 .section h2{
